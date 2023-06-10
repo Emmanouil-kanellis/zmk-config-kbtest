@@ -14,4 +14,4 @@
 ---
 include:
   - board: rpi_pico
-    shield: two_percent_milk
+    shield: kbtest
